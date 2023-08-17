@@ -1,1 +1,1 @@
-I made an old website a couple of years ago when I first got into using html. I have now made another one that I think looks a little bit better!
+I made an old website a couple of years ago when I first got into using html. I have now used Html to personalize another website for a personal portfolio. It has been a great experience and maybe I will make another one in the following years too!
